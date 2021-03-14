@@ -1,0 +1,2 @@
+This is a test line on the system
+ This is the additional text to the new file created by node. 
