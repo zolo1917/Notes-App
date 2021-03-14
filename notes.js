@@ -1,4 +1,4 @@
-console.log("inside notes.js");
+// console.log("inside notes.js");
 
 function getnotes (){
     return "your notes";
