@@ -17,12 +17,12 @@ yargs.command({
         title : {
             describe : "Note title",
             demandOption : true,
-            type : string
+            type : 'string'
         },
         body : {
             describe : "Note content",
             demandOption : true,
-            type : string
+            type : 'string'
         }
     },
     handler : function(argv) {
@@ -39,7 +39,7 @@ yargs.command({
         title : {
             describe : "Note title",
             demandOption : true,
-            type : string
+            type : 'string'
         }
     },
     handler : function(argv) {
@@ -55,7 +55,7 @@ yargs.command({
         title : {
             describe : "note title",
             demandOption : true,
-            type : string
+            type : 'string'
         }
     },
     handler : function(argv) {
